@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="FR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>... un trop petit mot !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151920Z" creationid="fred" creationdate="20190319T151920Z">
+        <seg>... un trop petit mot !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>... énormes !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151915Z" creationid="fred" creationdate="20190319T151915Z">
+        <seg>... énormes !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Adama a pu bénéficier de l'injection et,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151758Z" creationid="fred" creationdate="20190319T151758Z">
+        <seg>Adama a pu bénéficier de l'injection et,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Avant j'avais l'habitude de dire dans cinq..</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151930Z" creationid="fred" creationdate="20190319T151930Z">
+        <seg>Avant j'avais l'habitude de dire dans cinq..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>C'est pas grave, mais on compte sur vous,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151928Z" creationid="fred" creationdate="20190319T151928Z">
+        <seg>C'est pas grave, mais on compte sur vous,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ce sont des perspectives d'avenir qui sont...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151914Z" creationid="fred" creationdate="20190319T151914Z">
+        <seg>Ce sont des perspectives d'avenir qui sont...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Dans mon cas, vos travaux de recherche</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151655Z" creationid="fred" creationdate="20190319T151655Z">
+        <seg>Dans mon cas, vos travaux de recherche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Donc merci de trouver, et continuez à trouver !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151901Z" creationid="fred" creationdate="20190319T151901Z">
+        <seg>Donc merci de trouver, et continuez à trouver !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Donc ouais, j'aimerais bien... que vous trouviez !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151905Z" creationid="fred" creationdate="20190319T151905Z">
+        <seg>Donc ouais, j'aimerais bien... que vous trouviez !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Et le "merci" même, c'est difficile, c'est...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151919Z" creationid="fred" creationdate="20190319T151919Z">
+        <seg>Et le "merci" même, c'est difficile, c'est...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Je dis toujours que les chercheurs font...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151825Z" creationid="fred" creationdate="20190319T151825Z">
+        <seg>Je dis toujours que les chercheurs font...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Je le dis très souvent : le jour où je serai soigné,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151902Z" creationid="fred" creationdate="20190319T151902Z">
+        <seg>Je le dis très souvent : le jour où je serai soigné,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Je ne cesserai jamais de dire merci aux chercheurs...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151918Z" creationid="fred" creationdate="20190319T151918Z">
+        <seg>Je ne cesserai jamais de dire merci aux chercheurs...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Là, je fais mon stage de 3e au Généthon,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151848Z" creationid="fred" creationdate="20190319T151848Z">
+        <seg>Là, je fais mon stage de 3e au Généthon,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Malgré ça, vous, vous trouvez !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151859Z" creationid="fred" creationdate="20190319T151859Z">
+        <seg>Malgré ça, vous, vous trouvez !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Merci !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151939Z" creationid="fred" creationdate="20190319T151939Z">
+        <seg>Merci !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Merci les chercheurs !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151952Z" creationid="fred" creationdate="20190319T151952Z">
+        <seg>Merci les chercheurs !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Merci pour tout, et dépêchez-vous pour trouver</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151937Z" creationid="fred" creationdate="20190319T151937Z">
+        <seg>Merci pour tout, et dépêchez-vous pour trouver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Merci, merci infiniment pour tout ce que vous faites !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151845Z" creationid="fred" creationdate="20190319T151845Z">
+        <seg>Merci, merci infiniment pour tout ce que vous faites !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Merciiii...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151954Z" creationid="fred" creationdate="20190319T151954Z">
+        <seg>Merciiii...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Moi-même j'envisage de devenir chercheur...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151854Z" creationid="fred" creationdate="20190319T151854Z">
+        <seg>Moi-même j'envisage de devenir chercheur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ne lâchez rien, et puis... continuez,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151935Z" creationid="fred" creationdate="20190319T151935Z">
+        <seg>Ne lâchez rien, et puis... continuez,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ne pas savoir où j'en serai dans...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151930Z" creationid="fred" creationdate="20190319T151930Z">
+        <seg>Ne pas savoir où j'en serai dans...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>On a envie de les voir guérir, et grandir</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151924Z" creationid="fred" creationdate="20190319T151924Z">
+        <seg>On a envie de les voir guérir, et grandir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>On aura, je pense, pas assez d'une vie entière...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151916Z" creationid="fred" creationdate="20190319T151916Z">
+        <seg>On aura, je pense, pas assez d'une vie entière...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>On veut juste vous faire passer le message...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151921Z" creationid="fred" creationdate="20190319T151921Z">
+        <seg>On veut juste vous faire passer le message...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ouais donc, ça urge un peu, ouais...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151933Z" creationid="fred" creationdate="20190319T151933Z">
+        <seg>Ouais donc, ça urge un peu, ouais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Que la lutte continue, et j'espère qu'on pourra</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151934Z" creationid="fred" creationdate="20190319T151934Z">
+        <seg>Que la lutte continue, et j'espère qu'on pourra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Si on arrive effectivement à avoir</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151908Z" creationid="fred" creationdate="20190319T151908Z">
+        <seg>Si on arrive effectivement à avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Un jour, j'espère...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151906Z" creationid="fred" creationdate="20190319T151906Z">
+        <seg>Un jour, j'espère...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Vous avez pas encore trouvé</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151926Z" creationid="fred" creationdate="20190319T151926Z">
+        <seg>Vous avez pas encore trouvé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Vous cherchez sur des maladies...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151829Z" creationid="fred" creationdate="20190319T151829Z">
+        <seg>Vous cherchez sur des maladies...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>aujourd'hui j'ai une vie normale.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151808Z" creationid="fred" creationdate="20190319T151808Z">
+        <seg>aujourd'hui j'ai une vie normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>beaucoup de progrès.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151823Z" creationid="fred" creationdate="20190319T151823Z">
+        <seg>beaucoup de progrès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ce sera le plus beau jour de la vie,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151903Z" creationid="fred" creationdate="20190319T151903Z">
+        <seg>ce sera le plus beau jour de la vie,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ce traitement pour jules,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151911Z" creationid="fred" creationdate="20190319T151911Z">
+        <seg>ce traitement pour jules,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>d'avoir une vie normale, donc...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151839Z" creationid="fred" creationdate="20190319T151836Z">
+        <seg>aujourd'hui j'ai une vie normale.d'avoir une vie normale, donc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>de mon fauteuil roulant et</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151755Z" creationid="fred" creationdate="20190319T151755Z">
+        <seg>de mon fauteuil roulant et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>du coup, il y a eu beaucoup,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151759Z" creationid="fred" creationdate="20190319T151759Z">
+        <seg>du coup, il y a eu beaucoup,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et aujourd'hui je bénéficie d’un traitement</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151749Z" creationid="fred" creationdate="20190319T151749Z">
+        <seg>et aujourd'hui je bénéficie d’un traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et je peux voir que la recherche n'est pas facile.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151858Z" creationid="fred" creationdate="20190319T151858Z">
+        <seg>et je peux voir que la recherche n'est pas facile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et je sais que vous allez rien lâcher !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151929Z" creationid="fred" creationdate="20190319T151929Z">
+        <seg>et je sais que vous allez rien lâcher !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et la sienne sera complètement différente.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151913Z" creationid="fred" creationdate="20190319T151913Z">
+        <seg>et la sienne sera complètement différente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et merci encore pour tout !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151936Z" creationid="fred" creationdate="20190319T151936Z">
+        <seg>et merci encore pour tout !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>et s'épanouir.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151925Z" creationid="fred" creationdate="20190319T151925Z">
+        <seg>et s'épanouir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>je voulais sincèrement vous remercier</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T143409Z" creationid="fred" creationdate="20190319T143409Z">
+        <seg>je voulais sincèrement vous remercier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>le bon médicament... pour moi !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151938Z" creationid="fred" creationdate="20190319T151938Z">
+        <seg>le bon médicament... pour moi !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>le jour d'une réelle renaissance</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151904Z" creationid="fred" creationdate="20190319T151904Z">
+        <seg>le jour d'une réelle renaissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>le plus beau métier du monde !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151842Z" creationid="fred" creationdate="20190319T151842Z">
+        <seg>le plus beau métier du monde !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>les médicaments pour mon frère,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151926Z" creationid="fred" creationdate="20190319T151926Z">
+        <seg>les médicaments pour mon frère,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>notre vie ne sera plus du tout la même,</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151912Z" creationid="fred" creationdate="20190319T151912Z">
+        <seg>notre vie ne sera plus du tout la même,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ont vraiment changé ma vie</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151727Z" creationid="fred" creationdate="20190319T151727Z">
+        <seg>ont vraiment changé ma vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ou dix ans, maintenant je ne sais même pas</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151931Z" creationid="fred" creationdate="20190319T151931Z">
+        <seg>ou dix ans, maintenant je ne sais même pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>où j'en serai... l'année prochaine !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151932Z" creationid="fred" creationdate="20190319T151932Z">
+        <seg>où j'en serai... l'année prochaine !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>pour le travail que vous faites au quotidien</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151647Z" creationid="fred" creationdate="20190319T151647Z">
+        <seg>pour le travail que vous faites au quotidien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>pour notre petit garçon et pour tous les enfants</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151922Z" creationid="fred" creationdate="20190319T151922Z">
+        <seg>pour notre petit garçon et pour tous les enfants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>pour remercier ceux sans qui</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151916Z" creationid="fred" creationdate="20190319T151916Z">
+        <seg>pour remercier ceux sans qui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>pour sa maladie...</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151927Z" creationid="fred" creationdate="20190319T151927Z">
+        <seg>pour sa maladie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>puisque j'ai pu enfin avoir un diagnostic</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151746Z" creationid="fred" creationdate="20190319T151746Z">
+        <seg>puisque j'ai pu enfin avoir un diagnostic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>qu'il y a urgence</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151921Z" creationid="fred" creationdate="20190319T151921Z">
+        <seg>qu'il y a urgence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>qui me permet de me passer</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151753Z" creationid="fred" creationdate="20190319T151753Z">
+        <seg>qui me permet de me passer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>qui permettent à des gens comme moi</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151831Z" creationid="fred" creationdate="20190319T151831Z">
+        <seg>qui permettent à des gens comme moi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>qui souffrent de ces maladies.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151923Z" creationid="fred" creationdate="20190319T151923Z">
+        <seg>qui souffrent de ces maladies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>vaincre la maladie complètement !</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151935Z" creationid="fred" creationdate="20190319T151935Z">
+        <seg>vaincre la maladie complètement !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ça ne serait pas possible aujourd'hui.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="fred" changedate="20190319T151917Z" creationid="fred" creationdate="20190319T151917Z">
+        <seg>ça ne serait pas possible aujourd'hui.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
